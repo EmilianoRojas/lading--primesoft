@@ -325,7 +325,7 @@ header
 }
 
 .background-header .nav li:last-child a.active:after {
-  background-color: transparent;
+  /* background-color: transparent; */
 }
 
 .header-area {
@@ -399,15 +399,15 @@ header
 .background-header .main-nav .nav li:last-child a,
 .header-area .main-nav .nav li:nth-child(6) a ,
 .background-header .main-nav .nav li:nth-child(6) a {
-  padding: 0px 20px !important;
-  font-weight: 400;
+  /* padding: 0px 20px !important;
+  font-weight: 400; */
 }
 
 .header-area .main-nav .nav li:last-child a:hover ,
 .background-header .main-nav .nav li:last-child a:hover,
 .header-area .main-nav .nav li:nth-child(6) a:hover ,
 .background-header .main-nav .nav li:nth-child(6) a:hover {
-  color: #fff !important;
+  /* color: #fff !important; */
 }
 
 .header-area .main-nav .nav li a {
@@ -432,7 +432,7 @@ header
 }
 
 .header-area .main-nav .nav li:last-child a.active {
-  color: #fff !important;
+  /* color: #fff !important; */
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -1955,7 +1955,7 @@ responsive
     margin-left: 0px;
   }
   .header-area .main-nav .nav li:last-child {
-    padding-left: 20px;
+    /* padding-left: 20px; */
   }
   
   .main-banner .left-content h2 {
