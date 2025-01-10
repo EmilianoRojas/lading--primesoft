@@ -19,7 +19,7 @@
 <body>
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg">
-    <div class="container"> <a class="navbar-brand navbar-logo" href="#"> <img src="images/output-onlinepngtools.png" alt="logo"
+    <div class="container"> <a class="navbar-brand navbar-logo" href="#"> <img height="40" width="200" src="images/purple-logo.svg" alt="logo"
           class="logo-1"> </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span
@@ -31,7 +31,6 @@
           <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="2">Servicios</a> </li>
           <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="4">Tecnologías</a> </li>
           <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="6">Contactanos</a> </li>
-          <a href="https://api.whatsapp.com/send?phone=584125900162">Send Message</a>
         </ul>
       </div>
     </div>
@@ -277,7 +276,7 @@
           <div class="section-content">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-8">
-                <form id="contact_form" action="">
+                <form id="contact_form" action="https://formsubmit.co/info@primesoft.im" method="POST">
                   <div class="row">
                     <div class="col">
                       <input type="text" id="your_name" class="form-input w-100" name="full-name"
@@ -371,11 +370,11 @@
         navbar = $(".navbar");
 
       if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/PrimesoftBlack.png');
+        $('.navbar-logo img').attr('src', 'images/purple-logo.svg');
         navbar.addClass("nav-scroll");
 
       } else {
-        $('.navbar-logo img').attr('src', 'images/Primesoft.png');
+        $('.navbar-logo img').attr('src', 'images/white-logo.svg');
         navbar.removeClass("nav-scroll");
       }
 
@@ -385,10 +384,10 @@
         navbar = $(".navbar");
 
       if (bodyScroll > 50) {
-        $('.navbar-logo img').attr('src', 'images/logo-black.png');
+        $('.navbar-logo img').attr('src', 'images/purple-logo.svg');
         navbar.addClass("nav-scroll");
       } else {
-        $('.navbar-logo img').attr('src', 'images/logo-white.png');
+        $('.navbar-logo img').attr('src', 'images/white-logo.svg');
         navbar.removeClass("nav-scroll");
       }
 
