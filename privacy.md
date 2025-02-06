@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,12 +41,12 @@
 
     <main>
         <h1>Privacy Policy</h1>
-        <p><strong>Last Updated:</strong> [Insert Date]</p>
+        <p><strong>Last Updated:</strong> 02/06/25</p>
 
-        <p>Thank you for visiting [Your Website Name]. This privacy policy outlines how we handle information on this website.</p>
+        <p>Thank you for visiting Primesoft. This privacy policy outlines how we handle information on this website and our apps as "Gastos app".</p>
 
         <h2>Information We Do Not Collect</h2>
-        <p>We do not collect, store, or process any personal data from visitors to this website. This includes, but is not limited to:</p>
+        <p>We do not collect, store, or process any personal data from visitors to this website or any app. This includes, but is not limited to:</p>
         <ul>
             <li>Names</li>
             <li>Email addresses</li>
@@ -59,11 +58,11 @@
         <p>This website does not use any third-party services that collect user data. We do not integrate with analytics tools, advertising networks, or other services that might track user behavior.</p>
 
         <h2>Contact Us</h2>
-        <p>If you have any questions about this privacy policy, feel free to <a href="mailto:[Your Email Address]">contact us</a>.</p>
+        <p>If you have any questions about this privacy policy, feel free to <a href="mailto:[primesoft.studios@gmail.com]">contact us</a>.</p>
     </main>
 
     <footer>
-        <p>© [Year] [Your Website Name]. All rights reserved.</p>
+        <p>© 2025 Primesoft Studios. All rights reserved.</p>
     </footer>
 
 </body>
